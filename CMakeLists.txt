@@ -14,7 +14,7 @@ endif()
 find_package(OpenGL REQUIRED)
 
 # Add your source files
-set(SOURCES main.cpp)
+set(SOURCES src/main.cpp)
 
 # Add executable
 add_executable(${PROJECT_NAME} ${SOURCES})

@@ -1,4 +1,4 @@
-#include "src/vendors/GLFW/glfw3.h"
+#include "vendors/GLFW/glfw3.h"
 
 int main(void)
 {
